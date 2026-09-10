@@ -1,7 +1,7 @@
-## Hi there 👋
+<h1 align="center">HI :3</h1>
 
 <!--
-**tekisho/tekisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tekisho/Tekisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
