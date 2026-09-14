@@ -17,6 +17,7 @@ estimate data based on given context, education area related).
 > At the end of the term, the following will also be covered:
 > * basics of distributed systems programming (mainly with Go)
 > * programming for data analytics (with Python: Numpy, Pandas, Matplotlib, etc.)
+> * programming mobile devices (with Kotlin and Android 33+ SDK)
 > * ...
 
 
