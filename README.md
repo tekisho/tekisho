@@ -3,7 +3,7 @@
 
 <h3>I’m currently working on ...</h3>
 
-Kicking off two upcoming academic group projects as a team lead (in a nutshell: chess-related web tracker application interacting with a trained ML model & possibly chess engine + Stockfish to
+Kicking off two upcoming academic group projects as a team lead (in a nutshell: chess-related web tracker application interacting with a trained ML model & possibly chess library + Stockfish to
 estimate & analyze data based on given context; loan-origination system with mobile and web clients, an ML valuation model, and an AI agent committee).
 
 
