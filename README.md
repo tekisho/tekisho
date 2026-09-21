@@ -3,13 +3,14 @@
 
 <h3>I’m currently working on ...</h3>
 
-Kicking off one of two upcoming academic projects as a team lead (in short, hopefully: small web application interacting with a trained ML model to
-estimate data based on given context, education area related).
+Kicking off two upcoming academic group projects as a team lead (in a nutshell: chess-related web tracker application interacting with a trained ML model & possibly chess engine + Stockfish to
+estimate & analyze data based on given context; loan-origination system with mobile and web clients, an ML valuation model, and an AI agent committee).
 
 
 <h3>I’m currently learning ...</h3>
 
-- Machine Learning fundamentals with Python (Scikit-Learn, Keras & TensorFlow)
+- FastAPI, Firebase (Firestore + Authentication), Solidity
+- Machine Learning fundamentals with Python (Scikit-Learn / Keras & TensorFlow)
 - Node.js with Express.js and Mongoose ODM
 - MySQL, MongoDB, Neo4j Cypher querying
 
