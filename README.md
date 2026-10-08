@@ -3,24 +3,19 @@
 
 <h3>I’m currently working on ...</h3>
 
-Kicking off two upcoming academic group projects as a team lead, in a nutshell: **chess stats tracker** - web app using Chess.com PubAPI, linear ML model, and Stockfish; **loan-origination system** - mobile/web clients, smart-contracts, an ML valuation model, and an multi-agent committee.
-
+Kicking off two upcoming academic group projects as a team lead, in a nutshell: **chess stats tracker** - web app using Chess.com PubAPI, linear ML model, and Stockfish; **loan-origination system** - mobile & web clients, REST API, smart-contracts, an ML valuation model, and an multi-agent committee.
 
 <h3>I’m currently learning ...</h3>
 
-- **FastAPI**, **Firebase** (Firestore + Authentication)
-- **Blockchain basics** with Ethereum (Solidity + Hardhat, Web3.py)
-- **Machine Learning fundamentals** with Python (Scikit-Learn / Keras & TensorFlow)
-- Node.js with Express.js and Mongoose ODM
-- MySQL, MongoDB, Neo4j Cypher querying
+- **RESTful API Design** with FastAPI, Firebase (Firestore + Authentication)
+- **Distributed systems** with Go (gRPC + Protobuf)
+- **Data Analytics** with Python (NumPy, Pandas, Matplotlib)
+- **Mobile Development** with Kotlin (Android 33+ SDK and Jetpack Compose)
 
 > [!NOTE]
-> At the end of the term, the following will also be covered:
-> * basics of distributed systems programming (mainly with Go)
-> * programming for data analytics (with Python: Numpy, Pandas, Matplotlib, etc.)
-> * programming mobile devices (with Kotlin, Android 33+ SDK and Jetpack Compose)
-> * ...
-
+> Later this semester, the following will also be covered:
+> - Blockchain and Smart Contracts with Ethereum (Solidity, Hardhat, Web3.py)
+> - Machine Learning Fundamentals with Python (Scikit-Learn / Keras & TensorFlow)
 
 <h3>Fun facts ...</h3>
 
